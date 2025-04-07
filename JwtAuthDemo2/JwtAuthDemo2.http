@@ -1,0 +1,6 @@
+@JwtAuthDemo2_HostAddress = http://localhost:5001
+
+GET {{JwtAuthDemo2_HostAddress}}/Auth/index
+Accept: application/json
+
+###
